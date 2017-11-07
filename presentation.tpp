@@ -43,9 +43,6 @@ Jshell has a mechanism for starting with a custom classpath. Without this it'd b
 --beginoutput
  % jshell --class-path myOwnClassPath
 --endoutput
-btw The open-jdk jshell doesn't work and says its -classpath. The docs don't match my experience.
-
-There's also support for modules.
 
 --newpage
 --heading Scripts
