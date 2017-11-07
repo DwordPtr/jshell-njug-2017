@@ -1,9 +1,11 @@
 --title jshell NJUG 2017 
 --author Bryan Tidwell (@gurgeh in nashdev)
 
+https://github.com/DwordPtr/jshell-njug-2017
 --newpage Whats jshell
+
 --heading Jshell
-Jshell is a repl for java 9. (tldr pretty much) 
+Jshell is a repl for java 9. (tldr Thats pretty much it) 
 
 The main purpose is to allow java users to try out api's without compiling endless boiler plate
 
